@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="600.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-319.000000 -307.000000 600.000000 522.504578" height="522.5046"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_offer id_possibl"
+              d="M 168.907043,108.649300 A 31.639470,31.639470 0,0 1,194.061768,112.793243"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_offer id_peopl"
+              d="M 162.419891,103.068741 A 37.474602,37.474602 0,0 1,177.349564,85.367867"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_other id_school"
+              d="M -120.791565,167.040176 A 31.573714,31.573714 0,0 1,-109.528809,151.872910"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_friend id_individu"
+              d="M 64.033424,-11.163112 A 38.777146,38.777146 0,0 1,69.412949,-21.155186"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_friend id_person"
+              d="M 55.238110,-9.832734 A 82.062451,82.062451 0,0 1,57.533756,-73.794556"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_friend id_dear"
+              d="M 69.218506,-9.319046 A 61.564138,61.564138 0,0 1,121.214722,-33.596661"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_friend id_1996"
+              d="M 61.282822,-11.333012 A 70.658783,70.658783 0,0 1,97.224182,-67.790283"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_friend id_support"
+              d="M 71.121994,14.941893 A 113.159251,113.159251 0,0 1,83.644798,123.724709"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1996-97 id_year"
+              d="M -59.362801,205.504745 A 26.045881,26.045881 0,0 1,-50.722466,183.893082"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_just id_$10"
+              d="M 275.372986,16.167019 A 18.939245,18.939245 0,0 1,259.360840,18.186991"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_execut id_director"
+              d="M -161.556335,-69.116615 A 79.326951,79.326951 0,0 1,-233.423325,-101.686363"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nanci id_k"
+              d="M -303.480530,-121.661888 A 15.807604,15.807604 0,0 1,-313.976746,-123.765724"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nanci id_haskel"
+              d="M -301.362732,-128.918228 A 16.479383,16.479383 0,0 1,-302.861115,-138.737808"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_director id_execut"
+              d="M -228.998627,-111.449715 A 79.326951,79.326951 0,0 1,-157.131638,-78.879967"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_director id_nanci"
+              d="M -247.901550,-106.914940 A 50.406543,50.406543 0,0 1,-293.109253,-119.223625"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_p. id_director"
+              d="M -271.469116,-137.389648 A 40.049863,40.049863 0,0 1,-242.716843,-118.781952"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_p. id_haskel"
+              d="M -284.000610,-136.105576 A 20.234663,20.234663 0,0 1,-298.075531,-140.005173"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_sincer id_director"
+              d="M -259.811737,-125.325485 A 25.056544,25.056544 0,0 1,-244.040115,-118.041008"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_sincer id_p."
+              d="M -269.024994,-126.473991 A 15.216131,15.216131 0,0 1,-275.432526,-131.821899"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_approxim id_student"
+              d="M -85.635750,71.667564 A 41.667533,41.667533 0,0 1,-109.553772,94.556473"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_approxim id_make"
+              d="M -82.395927,62.870697 A 74.419368,74.419368 0,0 1,-38.157085,21.200701"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_$48 id_pay"
+              d="M -113.824814,-39.530842 A 63.249566,63.249566 0,0 1,-154.588440,-5.152822"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_follow id_$48"
+              d="M -30.115284,-51.188808 A 77.545602,77.545602 0,0 1,-107.765564,-41.858856"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_import id_success"
+              d="M -3.650751,-145.452499 A 77.177795,77.177795 0,0 1,13.901749,-69.688957"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_import id_accomplish"
+              d="M -7.674908,-143.165451 A 97.206436,97.206436 0,0 1,-40.357548,-51.233143"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_vital id_import"
+              d="M 13.331844,-196.732605 A 45.755683,45.755683 0,0 1,-2.842352,-155.601730"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_busi id_activ"
+              d="M 137.936081,93.887039 A 81.348842,81.348842 0,0 1,72.897804,81.692345"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_generos id_busi"
+              d="M 68.016830,107.573883 A 68.992701,68.992701 0,0 1,138.089722,89.976616"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_generos id_activ"
+              d="M 59.209896,107.887955 A 44.428897,44.428897 0,0 1,49.615635,90.311180"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_remai id_30%"
+              d="M -44.850487,159.304810 A 32.666062,32.666062 0,0 1,-32.123825,130.695557"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_30% id_generos"
+              d="M -22.110659,122.918083 A 76.431297,76.431297 0,0 1,58.002911,109.634346"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_60% id_budget"
+              d="M -158.156464,71.868507 A 14.250505,14.250505 0,0 1,-166.523758,69.216171"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_come id_follow"
+              d="M -62.843601,10.614955 A 78.876238,78.876238 0,0 1,-31.460382,-52.966167"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_come id_30%"
+              d="M -49.845547,34.693928 A 89.756511,89.756511 0,0 1,-24.939180,121.212395"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_come id_60%"
+              d="M -69.125313,37.952370 A 85.758880,85.758880 0,0 1,-148.906876,71.796875"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_come id_make"
+              d="M -49.371307,16.623688 A 43.213769,43.213769 0,0 1,-38.126057,12.893496"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_come id_unit"
+              d="M -47.344681,30.203348 A 108.671235,108.671235 0,0 1,17.515055,113.473045"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_result id_follow"
+              d="M -47.252316,-100.892662 A 48.768604,48.768604 0,0 1,-22.843616,-72.857185"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_result id_come"
+              d="M -51.886684,-95.111809 A 108.470086,108.470086 0,0 1,-52.967072,13.131797"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_result id_level"
+              d="M -66.666626,-97.292709 A 57.655281,57.655281 0,0 1,-113.940170,-88.535202"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_actual id_cost"
+              d="M -51.121998,-186.812988 A 37.967143,37.967143 0,0 1,-32.760284,-155.557449"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_actual id_real"
+              d="M -59.824543,-187.832047 A 16.925852,16.925852 0,0 1,-70.092583,-189.988358"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_conflict id_resolut"
+              d="M -88.644531,-139.374008 A 35.151191,35.151191 0,0 1,-60.391956,-139.436752"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_compon id_make"
+              d="M -45.992165,46.284405 A 45.262996,45.262996 0,0 1,-35.444359,29.842833"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_human id_growth"
+              d="M -144.991562,-34.067833 A 32.365124,32.365124 0,0 1,-120.469322,-24.382755"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_differ id_conflict"
+              d="M -83.527573,-126.872009 A 17.708177,17.708177 0,0 1,-90.534180,-131.078598"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_differ id_real"
+              d="M -79.798508,-133.056854 A 56.592907,56.592907 0,0 1,-78.496620,-188.873856"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_differ id_make"
+              d="M -68.534782,-122.163948 A 131.320745,131.320745 0,0 1,-7.087915,-10.996284"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_base id_compon"
+              d="M 40.943260,128.606445 A 101.500437,101.500437 0,0 1,-45.191242,64.964996"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_base id_support"
+              d="M 56.984341,127.823021 A 24.078276,24.078276 0,0 1,62.942829,128.755905"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_own id_activ"
+              d="M 28.167891,93.941902 A 38.569923,38.569923 0,0 1,30.795448,81.833191"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_own id_teacher"
+              d="M 29.329338,106.615067 A 69.136318,69.136318 0,0 1,2.310353,169.073639"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_start id_year"
+              d="M 44.517925,114.595695 A 98.299455,98.299455 0,0 1,-39.114117,179.884827"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_own"
+              d="M 97.633774,39.319557 A 90.711170,90.711170 0,0 1,34.578144,98.901894"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_start"
+              d="M 100.995613,39.725151 A 85.704908,85.704908 0,0 1,54.263466,103.655235"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_000"
+              d="M 121.349838,16.968475 A 26.366164,26.366164 0,0 1,130.832214,21.437983"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_stake"
+              d="M 117.769875,8.185500 A 30.522399,30.522399 0,0 1,130.281403,7.067843"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_individu"
+              d="M 89.330467,4.294859 A 46.881512,46.881512 0,0 1,84.740990,-11.787704"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_contribut"
+              d="M 119.308075,10.669775 A 75.498419,75.498419 0,0 1,184.248062,17.058336"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_make"
+              d="M 84.364677,29.607204 A 93.212556,93.212556 0,0 1,14.500721,31.103369"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_have id_unit"
+              d="M 99.761887,39.643749 A 113.696755,113.696755 0,0 1,32.761070,123.297401"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_short id_have"
+              d="M 41.208820,12.536275 A 53.942513,53.942513 0,0 1,84.591850,9.723905"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_short id_make"
+              d="M 33.366039,17.647034 A 39.448409,39.448409 0,0 1,17.441626,23.562157"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_stake id_promot"
+              d="M 142.710266,9.911292 A 24.653496,24.653496 0,0 1,152.550308,16.659075"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_level id_grade"
+              d="M -135.179214,-102.761681 A 44.436917,44.436917 0,0 1,-141.267197,-140.328140"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_execut"
+              d="M -94.576157,-61.380180 A 58.753247,58.753247 0,0 1,-143.845886,-65.178925"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_success"
+              d="M -68.211716,-74.888290 A 76.847493,76.847493 0,0 1,2.752952,-66.581184"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_conflict"
+              d="M -91.005386,-79.593994 A 57.667482,57.667482 0,0 1,-96.717751,-130.416061"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_behavior"
+              d="M -66.688461,-69.347221 A 110.117234,110.117234 0,0 1,30.718887,-11.772965"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_accomplish"
+              d="M -67.359840,-63.732262 A 32.374339,32.374339 0,0 1,-58.584248,-55.976971"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_action id_activ"
+              d="M -66.868553,-65.724831 A 154.344692,154.344692 0,0 1,44.157604,31.372225"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_teen id_pregnanc"
+              d="M 22.469301,-301.369141 A 14.807751,14.807751 0,0 1,22.392189,-290.299683"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_controll id_pregnanc"
+              d="M 14.904016,-247.699600 A 35.643249,35.643249 0,0 1,17.140074,-282.546173"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emphasi id_import"
+              d="M 8.369794,-156.777573 A 22.658381,22.658381 0,0 1,-1.432961,-151.539764"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emphasi id_controll"
+              d="M 9.080810,-173.157562 A 65.786232,65.786232 0,0 1,14.375838,-239.881073"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emphasi id_take"
+              d="M 14.126771,-154.989502 A 51.001931,51.001931 0,0 1,-0.656577,-123.113892"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emphasi id_emerg"
+              d="M 9.986084,-155.852600 A 98.222220,98.222220 0,0 1,-76.570709,-102.449722"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nation id_emphasi"
+              d="M 135.578094,-28.754564 A 159.735355,159.735355 0,0 1,15.478396,-155.101608"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_nation id_individu"
+              d="M 136.200638,-22.191599 A 49.260983,49.260983 0,0 1,108.135445,-22.706720"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_even id_grade"
+              d="M -120.734474,-161.074768 A 25.319071,25.319071 0,0 1,-135.229706,-146.074661"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_even id_level"
+              d="M -116.303627,-161.704437 A 62.038006,62.038006 0,0 1,-118.488853,-103.777634"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_even id_veri"
+              d="M -117.079041,-173.252975 A 65.340497,65.340497 0,0 1,-61.482300,-212.141190"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_veri id_real"
+              d="M -57.176147,-206.210861 A 22.357134,22.357134 0,0 1,-68.727600,-195.663879"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_mission id_critic"
+              d="M 46.913139,-229.550186 A 21.149512,21.149512 0,0 1,44.017521,-214.100662"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_critic id_vital"
+              d="M 32.426025,-202.915100 A 22.405687,22.405687 0,0 1,16.995834,-200.052277"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_critic id_veri"
+              d="M 31.598957,-204.036087 A 78.057820,78.057820 0,0 1,-50.015106,-208.406738"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_push id_critic"
+              d="M 116.879822,-117.097679 A 106.801715,106.801715 0,0 1,39.683208,-200.272827"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_push id_promot"
+              d="M 133.547867,-108.366852 A 122.461060,122.461060 0,0 1,163.085297,16.211214"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_background id_push"
+              d="M 147.004684,-137.228394 A 27.298656,27.298656 0,0 1,135.326263,-118.924652"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_behavior id_activ"
+              d="M 40.276859,0.864110 A 56.041232,56.041232 0,0 1,55.060257,30.569414"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_follow"
+              d="M -10.329288,-93.421425 A 43.503187,43.503187 0,0 1,-13.466914,-71.138611"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_cost"
+              d="M -30.709011,-126.640869 A 33.646261,33.646261 0,0 1,-33.996929,-142.881516"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_have"
+              d="M 2.016008,-106.945007 A 147.991912,147.991912 0,0 1,98.578171,0.231753"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_level"
+              d="M -32.293560,-99.163353 A 92.217601,92.217601 0,0 1,-114.133408,-88.052498"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_action"
+              d="M -26.414722,-94.474556 A 64.822461,64.822461 0,0 1,-66.684471,-69.291252"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_elect"
+              d="M -4.162795,-127.091026 A 67.411191,67.411191 0,0 1,52.301128,-142.119843"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_take id_make"
+              d="M -5.869111,-95.737511 A 107.850312,107.850312 0,0 1,2.366810,-8.250799"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_major id_stake"
+              d="M 55.598038,-22.391138 A 77.637663,77.637663 0,0 1,132.611359,3.423831"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_major id_student"
+              d="M 45.068539,-12.602241 A 173.492323,173.492323 0,0 1,-109.324478,97.184479"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emerg id_alreadi"
+              d="M -95.741966,-105.329239 A 27.725622,27.725622 0,0 1,-110.476265,-121.983788"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emerg id_develop"
+              d="M -80.604759,-94.945107 A 80.046593,80.046593 0,0 1,-76.426392,-16.755081"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_emerg id_growth"
+              d="M -83.668983,-93.465012 A 76.824796,76.824796 0,0 1,-105.260139,-22.263357"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_peer id_individu"
+              d="M 110.935661,-91.764084 A 55.457927,55.457927 0,0 1,104.166832,-51.726528"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_resolut id_result"
+              d="M -49.667053,-124.890472 A 25.128990,25.128990 0,0 1,-51.442745,-114.133171"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_resolut id_decision-mak"
+              d="M -59.587509,-140.560242 A 26.066744,26.066744 0,0 1,-65.411964,-159.898041"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_mount id_pressur"
+              d="M 36.657867,-99.064980 A 31.147091,31.147091 0,0 1,40.477997,-74.490715"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_result"
+              d="M 16.897026,-118.175728 A 74.872014,74.872014 0,0 1,-47.018852,-101.614685"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_take"
+              d="M 16.897066,-118.175697 A 40.697974,40.697974 0,0 1,2.687463,-111.766045"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_major"
+              d="M 39.174034,-117.972267 A 93.187036,93.187036 0,0 1,51.157898,-27.522205"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_emerg"
+              d="M 16.582806,-118.476425 A 98.076886,98.076886 0,0 1,-77.183525,-99.425713"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_respons"
+              d="M 30.890663,-113.975899 A 36.391829,36.391829 0,0 1,25.992800,-97.863411"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_area"
+              d="M 21.571890,-115.112671 A 72.905137,72.905137 0,0 1,-31.088152,-79.397079"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_issu id_elect"
+              d="M 41.186684,-140.355988 A 26.734624,26.734624 0,0 1,52.245239,-141.863724"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_home id_base"
+              d="M 96.226326,90.039909 A 57.691909,57.691909 0,0 1,56.900818,127.334229"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_home id_nation"
+              d="M 96.876854,70.956367 A 97.873417,97.873417 0,0 1,137.115982,-20.409910"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_home id_unit"
+              d="M 94.273933,89.338440 A 77.412348,77.412348 0,0 1,33.605972,128.361832"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_time id_come"
+              d="M -48.565689,-2.831065 A 32.650930,32.650930 0,0 1,-51.906738,13.930464"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_time id_hour"
+              d="M -59.146259,-7.525678 A 73.699300,73.699300 0,0 1,-132.529480,-12.753105"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_time id_subject"
+              d="M -44.705303,-20.060225 A 163.827419,163.827419 0,0 1,114.856461,-76.421326"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_volatil id_time"
+              d="M -72.646355,-27.325657 A 24.205256,24.205256 0,0 1,-56.129517,-20.431089"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_promot id_behavior"
+              d="M 145.878235,32.598495 A 106.948670,106.948670 0,0 1,39.528511,1.589253"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_promot id_contribut"
+              d="M 169.292038,21.228395 A 28.672344,28.672344 0,0 1,182.936752,19.729479"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_promot id_support"
+              d="M 157.611374,41.549229 A 114.390356,114.390356 0,0 1,91.719231,132.691772"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_young id_peopl"
+              d="M 215.343887,82.370049 A 23.421287,23.421287 0,0 1,205.326630,84.732452"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_too id_mani"
+              d="M 244.881439,48.856022 A 20.960569,20.960569 0,0 1,231.035721,47.653187"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_peopl id_busi"
+              d="M 179.980865,89.829750 A 40.541860,40.541860 0,0 1,150.134857,94.151161"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_peopl id_nation"
+              d="M 179.083740,71.708946 A 96.317135,96.317135 0,0 1,144.638428,-15.274536"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_peopl id_promot"
+              d="M 178.274475,73.005386 A 51.099521,51.099521 0,0 1,159.005188,41.551357"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_peopl id_possibl"
+              d="M 199.312866,92.601646 A 30.041099,30.041099 0,0 1,199.536713,111.288895"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_mani id_too"
+              d="M 232.209381,40.738705 A 20.960569,20.960569 0,0 1,245.676514,44.171925"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_mani id_peopl"
+              d="M 223.000259,50.909363 A 41.576956,41.576956 0,0 1,204.998291,74.733086"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_reach id_come"
+              d="M 112.365120,-1.802433 A 154.243082,154.243082 0,0 1,-47.715820,31.164410"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_reach id_push"
+              d="M 114.656456,-19.918028 A 87.648376,87.648376 0,0 1,120.536064,-107.210808"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_reach id_mani"
+              d="M 131.708649,-11.297437 A 97.351770,97.351770 0,0 1,220.613419,35.897984"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_reach id_accomplish"
+              d="M 109.893532,-5.351031 A 146.446616,146.446616 0,0 1,-41.811745,-32.131344"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_reach id_make"
+              d="M 112.353271,-1.813995 A 111.062719,111.062719 0,0 1,16.822483,25.803816"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_accomplish id_execut"
+              d="M -66.576233,-38.411098 A 86.218888,86.218888 0,0 1,-145.578598,-63.234959"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_accomplish id_pay"
+              d="M -61.749207,-31.090899 A 108.193368,108.193368 0,0 1,-155.086716,1.900631"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_accomplish id_make"
+              d="M -38.909077,-36.316563 A 60.925799,60.925799 0,0 1,-15.942073,-10.558990"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_individu id_follow"
+              d="M 65.981270,-28.119247 A 92.920363,92.920363 0,0 1,-11.222963,-50.546894"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_individu id_success"
+              d="M 65.279060,-31.241499 A 68.327049,68.327049 0,0 1,16.553879,-52.985935"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_activ id_success"
+              d="M 29.606085,40.176788 A 106.528787,106.528787 0,0 1,7.848688,-51.175453"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_activ id_fundrais"
+              d="M 66.572609,86.485641 A 34.091436,34.091436 0,0 1,65.755516,96.228897"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_activ id_start"
+              d="M 56.060509,90.081352 A 38.961860,38.961860 0,0 1,51.722511,100.442268"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_activ id_individu"
+              d="M 48.785255,30.538364 A 84.927835,84.927835 0,0 1,70.454529,-19.818768"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_activ id_support"
+              d="M 71.684784,82.830162 A 68.205704,68.205704 0,0 1,79.843246,122.376305"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_respons id_result"
+              d="M 4.986211,-83.760590 A 64.426445,64.426445 0,0 1,-49.837002,-96.771851"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_respons id_behavior"
+              d="M 26.388697,-78.309402 A 70.872444,70.872444 0,0 1,37.346416,-12.017700"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_respons id_take"
+              d="M 4.467609,-89.915863 A 35.186416,35.186416 0,0 1,-5.893566,-95.720604"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_respons id_activ"
+              d="M 27.028088,-78.948082 A 126.851217,126.851217 0,0 1,60.567486,31.706354"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_respons id_area"
+              d="M 7.123407,-79.793259 A 50.542483,50.542483 0,0 1,-31.865526,-74.436378"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_follow"
+              d="M 54.939163,-75.785988 A 81.700614,81.700614 0,0 1,-7.503949,-57.325336"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_success"
+              d="M 56.591236,-74.456238 A 58.143207,58.143207 0,0 1,20.171541,-60.076183"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_have"
+              d="M 88.848045,-76.725410 A 98.614028,98.614028 0,0 1,107.248528,0.781265"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_nation"
+              d="M 95.619850,-88.642372 A 84.627619,84.627619 0,0 1,143.841766,-37.557617"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_peer"
+              d="M 94.992851,-102.570992 A 31.692300,31.692300 0,0 1,103.536598,-100.710258"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_individu"
+              d="M 86.977005,-75.066132 A 51.746888,51.746888 0,0 1,91.544250,-57.786720"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_activ"
+              d="M 81.592484,-71.776207 A 130.129542,130.129542 0,0 1,70.023750,36.577499"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_respons"
+              d="M 49.345921,-82.865700 A 45.294801,45.294801 0,0 1,29.646437,-83.089745"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_subject"
+              d="M 96.256783,-96.370949 A 58.522667,58.522667 0,0 1,121.013420,-86.779037"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_child"
+              d="M 81.129776,-117.485657 A 35.150326,35.150326 0,0 1,88.944351,-123.614311"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_person id_gift"
+              d="M 90.963150,-79.081146 A 137.831606,137.831606 0,0 1,132.434570,41.463963"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hope id_individu"
+              d="M 63.434608,-56.017632 A 31.641393,31.641393 0,0 1,73.343887,-52.604660"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_hope id_person"
+              d="M 55.868771,-62.688194 A 33.918510,33.918510 0,0 1,56.767384,-74.327591"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_consid id_take"
+              d="M 37.470882,-43.933323 A 78.274132,78.274132 0,0 1,-13.016129,-92.643700"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_consid id_hope"
+              d="M 47.671459,-49.628265 A 15.574620,15.574620 0,0 1,51.334141,-53.651585"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_consid id_make"
+              d="M 43.918839,-33.981808 A 67.501975,67.501975 0,0 1,16.102501,6.514067"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_consid id_gift"
+              d="M 53.015400,-39.654797 A 109.980159,109.980159 0,0 1,125.588165,41.133286"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pressur id_push"
+              d="M 40.904808,-74.278214 A 86.729428,86.729428 0,0 1,116.680069,-115.747154"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pressur id_peer"
+              d="M 41.884739,-73.700706 A 67.535544,67.535544 0,0 1,102.980141,-98.973335"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pressur id_resolut"
+              d="M 24.206486,-65.206825 A 93.592335,93.592335 0,0 1,-49.160553,-125.034653"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_$240"
+              d="M -197.176147,1.217196 A 33.372032,33.372032 0,0 1,-213.577438,-5.635628"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_$500"
+              d="M -191.764786,11.645112 A 32.823218,32.823218 0,0 1,-208.628876,14.311358"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_$156"
+              d="M -195.227692,6.742315 A 33.516892,33.516892 0,0 1,-213.051437,4.531217"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_$60"
+              d="M -197.520035,-5.176694 A 32.615641,32.615641 0,0 1,-210.453033,-15.911579"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_compon"
+              d="M -154.646408,-5.693530 A 117.178467,117.178467 0,0 1,-53.344315,47.365360"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_level"
+              d="M -176.313461,-24.685940 A 85.764023,85.764023 0,0 1,-137.747650,-86.896759"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_hour"
+              d="M -159.359909,-16.770609 A 33.193075,33.193075 0,0 1,-146.928497,-18.820997"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_pay id_student"
+              d="M -157.836716,8.408539 A 94.100878,94.100878 0,0 1,-122.850311,82.396332"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_develop id_follow"
+              d="M -78.796097,-17.801107 A 67.917967,67.917967 0,0 1,-33.311630,-57.843857"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_develop id_make"
+              d="M -71.066940,-9.502142 A 63.305547,63.305547 0,0 1,-31.045828,-1.936521"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_area id_differ"
+              d="M -52.848892,-83.516068 A 48.260274,48.260274 0,0 1,-75.117439,-118.188408"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_three id_area"
+              d="M -93.819923,-37.341770 A 58.068324,58.068324 0,0 1,-53.767254,-76.673332"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_one id_level"
+              d="M -136.835480,-53.603954 A 39.718661,39.718661 0,0 1,-134.036224,-82.627457"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_one id_action"
+              d="M -129.199890,-52.717831 A 47.385637,47.385637 0,0 1,-96.218536,-69.546036"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_one id_hour"
+              d="M -131.468643,-38.413181 A 24.129035,24.129035 0,0 1,-134.054260,-24.023893"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_particip id_activ"
+              d="M -43.629341,132.139191 A 106.090211,106.090211 0,0 1,22.310198,66.029762"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_particip id_school"
+              d="M -54.331169,147.098801 A 38.515938,38.515938 0,0 1,-75.040627,151.430099"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_particip id_program"
+              d="M -55.530869,138.228806 A 104.457056,104.457056 0,0 1,-116.849792,68.426498"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_recent id_particip"
+              d="M -63.484634,169.685532 A 29.525075,29.525075 0,0 1,-54.406940,146.989105"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_contribut id_$10"
+              d="M 199.986496,16.716782 A 52.670470,52.670470 0,0 1,250.996567,13.961463"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_nation"
+              d="M 149.219833,-50.201099 A 37.210635,37.210635 0,0 1,149.882584,-37.519539"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_major"
+              d="M 124.999481,-50.357624 A 85.335099,85.335099 0,0 1,55.879570,-19.473104"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_issu"
+              d="M 113.996758,-69.484619 A 103.800483,103.800483 0,0 1,36.103092,-115.791176"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_workplac"
+              d="M 151.861130,-52.050346 A 124.350594,124.350594 0,0 1,158.854736,73.702965"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_home"
+              d="M 144.159241,-47.929970 A 129.653213,129.653213 0,0 1,105.900131,74.184593"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_individu"
+              d="M 125.382500,-50.125568 A 50.338467,50.338467 0,0 1,110.975487,-39.725540"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_pressur"
+              d="M 117.598801,-57.681271 A 84.848896,84.848896 0,0 1,45.535828,-58.491703"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_area"
+              d="M 117.044273,-58.602871 A 149.950416,149.950416 0,0 1,-33.414448,-71.697777"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_parent"
+              d="M 159.597702,-63.753883 A 48.900062,48.900062 0,0 1,176.162094,-48.273136"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_subject id_child"
+              d="M 117.154007,-81.839066 A 57.772329,57.772329 0,0 1,98.401711,-117.527664"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1996 id_elect"
+              d="M 97.069122,-73.179970 A 69.074463,69.074463 0,0 1,58.297867,-134.261139"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_summer id_friend"
+              d="M 164.284790,0.731320 A 89.783709,89.783709 0,0 1,74.757408,10.556530"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1943 id_summer"
+              d="M 197.710648,3.213973 A 28.719707,28.719707 0,0 1,174.379166,0.598537"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_1943 id_parent"
+              d="M 197.858414,-2.300471 A 33.023318,33.023318 0,0 1,185.433853,-16.886002"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_youth id_young"
+              d="M 170.845917,60.116058 A 47.997063,47.997063 0,0 1,216.476120,76.189339"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_youth id_1943"
+              d="M 164.522888,55.357021 A 60.351992,60.351992 0,0 1,197.693222,3.174652"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_price id_cost"
+              d="M -12.589919,-40.626358 A 95.221694,95.221694 0,0 1,-35.558285,-143.315948"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_growth id_pay"
+              d="M -122.613640,-7.362637 A 52.611298,52.611298 0,0 1,-155.158264,2.190312"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_growth id_develop"
+              d="M -102.793282,-17.035555 A 27.362717,27.362717 0,0 1,-91.090294,-14.078054"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_teacher id_base"
+              d="M -3.597864,164.393799 A 60.755219,60.755219 0,0 1,40.985542,129.823669"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_teacher id_abstin"
+              d="M -1.893742,185.251541 A 28.454649,28.454649 0,0 1,-3.907764,206.709518"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_teacher id_age-appropri"
+              d="M -5.597299,186.501343 A 28.231165,28.231165 0,0 1,-14.594207,205.781754"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_school id_year"
+              d="M -74.459572,149.099503 A 48.454318,48.454318 0,0 1,-47.724258,174.303452"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_school id_entir"
+              d="M -95.706268,163.751465 A 31.620876,31.620876 0,0 1,-109.049767,177.208832"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_school id_pressur"
+              d="M -93.302940,127.711685 A 204.941869,204.941869 0,0 1,25.096291,-59.609707"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_school id_student"
+              d="M -107.976501,136.553970 A 48.474367,48.474367 0,0 1,-122.837624,111.908249"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_school id_10%"
+              d="M -74.990875,151.272568 A 65.726341,65.726341 0,0 1,-38.483246,198.154083"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_list"
+              d="M 194.722183,-44.612038 A 30.459406,30.459406 0,0 1,213.602234,-47.878590"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_contribut"
+              d="M 192.610916,-19.893229 A 47.172894,47.172894 0,0 1,195.793777,13.560122"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_subject"
+              d="M 166.678345,-36.571507 A 48.900062,48.900062 0,0 1,148.102631,-49.570560"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_dear"
+              d="M 168.103531,-25.728262 A 47.450719,47.450719 0,0 1,129.768509,-30.568789"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_1996"
+              d="M 166.396378,-31.653269 A 73.545822,73.545822 0,0 1,106.155655,-65.157745"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_parent id_summer"
+              d="M 181.389450,-16.741196 A 27.392049,27.392049 0,0 1,174.472198,-6.928535"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_student id_500"
+              d="M -134.418030,107.816307 A 29.832248,29.832248 0,0 1,-154.003479,112.000092"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_student id_50"
+              d="M -130.229553,110.654343 A 29.717943,29.717943 0,0 1,-147.140991,121.113693"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_aid id_std"
+              d="M 117.500923,163.456253 A 27.855878,27.855878 0,0 1,125.484749,182.676453"
+              stroke="#1b9e77" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_aid id_activ"
+              d="M 97.744026,152.015823 A 93.226836,93.226836 0,0 1,53.109215,90.359329"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_aid id_support"
+              d="M 96.575966,156.255356 A 30.650084,30.650084 0,0 1,86.497742,151.432007"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_make id_execut"
+              d="M -38.445747,16.786058 A 138.972162,138.972162 0,0 1,-148.056885,-61.686611"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_make id_start"
+              d="M 14.409641,31.262991 A 88.594789,88.594789 0,0 1,47.134335,98.827530"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_skill id_compon"
+              d="M -23.646427,-19.256618 A 72.468977,72.468977 0,0 1,-41.181072,49.142624"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_skill id_resolut"
+              d="M -33.920570,-35.114742 A 90.689725,90.689725 0,0 1,-55.470383,-125.194214"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_skill id_accomplish"
+              d="M -36.494102,-29.082436 A 24.324815,24.324815 0,0 1,-42.420761,-31.548811"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_child id_issu"
+              d="M 89.508362,-122.448639 A 58.250279,58.250279 0,0 1,42.264839,-121.706329"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_child id_individu"
+              d="M 102.449783,-118.601761 A 77.507086,77.507086 0,0 1,101.343262,-53.989265"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_activ"
+              d="M -54.247795,83.950874 A 105.435571,105.435571 0,0 1,22.257862,55.028847"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_develop"
+              d="M -81.375252,83.191719 A 90.086991,90.086991 0,0 1,-87.183998,3.412654"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_teacher"
+              d="M -48.245121,108.293259 A 80.446227,80.446227 0,0 1,-8.612622,163.831284"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_school"
+              d="M -70.359337,121.784538 A 42.937109,42.937109 0,0 1,-77.929169,134.803604"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_student"
+              d="M -88.509857,107.786186 A 46.622084,46.622084 0,0 1,-111.437119,104.776787"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_aids/std"
+              d="M -61.240532,120.703445 A 28.443443,28.443443 0,0 1,-64.154060,131.737320"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_aid"
+              d="M -47.452915,94.740273 A 154.321181,154.321181 0,0 1,101.035057,148.030090"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_make"
+              d="M -66.246613,78.856125 A 84.566653,84.566653 0,0 1,-35.178173,30.360319"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_program"
+              d="M -88.336044,92.403610 A 66.197755,66.197755 0,0 1,-112.340454,67.486984"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_educ id_provid"
+              d="M -51.459694,86.831451 A 51.424689,51.424689 0,0 1,-34.766342,81.770798"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_time"
+              d="M 7.574358,-20.080748 A 59.304934,59.304934 0,0 1,-41.370937,-9.431406"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_individu"
+              d="M 30.557045,-38.544926 A 58.533838,58.533838 0,0 1,66.685852,-43.437565"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_person"
+              d="M 20.462339,-45.081219 A 69.423374,69.423374 0,0 1,48.563206,-84.483162"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_make"
+              d="M 17.354303,-15.658983 A 46.143765,46.143765 0,0 1,11.465603,-1.150900"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_skill"
+              d="M 5.068565,-23.505154 A 37.463676,37.463676 0,0 1,-18.066860,-24.084068"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_child"
+              d="M 19.879942,-45.161366 A 104.572298,104.572298 0,0 1,88.625252,-124.533012"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_life id_educ"
+              d="M 18.192829,-15.637538 A 130.628848,130.628848 0,0 1,-48.644012,91.414215"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_famili id_home"
+              d="M 84.804733,92.807083 A 22.362735,22.362735 0,0 1,90.088348,85.447365"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_famili id_peopl"
+              d="M 89.723663,95.422104 A 92.162803,92.162803 0,0 1,177.370941,74.955856"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_famili id_life"
+              d="M 74.385292,97.575943 A 123.122668,123.122668 0,0 1,16.234232,-15.762169"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_famili id_unit"
+              d="M 77.146393,110.252136 A 57.589243,57.589243 0,0 1,33.479797,130.163940"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_unit id_way"
+              d="M 19.158323,143.038239 A 25.447005,25.447005 0,0 1,11.449440,155.336105"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_unit id_compon"
+              d="M 4.518821,124.277023 A 82.342545,82.342545 0,0 1,-46.775349,65.364120"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_central id_workplac"
+              d="M 101.201477,175.672150 A 96.864016,96.864016 0,0 1,152.431122,79.911415"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_central id_indiana"
+              d="M 99.051949,184.118622 A 61.810739,61.810739 0,0 1,39.675095,206.882553"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_offer"
+              d="M 144.778259,71.611671 A 50.579988,50.579988 0,0 1,159.890610,102.750885"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_accomplish"
+              d="M 108.234833,62.158665 A 173.286584,173.286584 0,0 1,-45.912395,-29.199865"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_thus"
+              d="M 144.681366,49.945534 A 39.514963,39.514963 0,0 1,171.869965,50.614315"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_individu"
+              d="M 112.223236,48.853382 A 86.314859,86.314859 0,0 1,85.616463,-11.670634"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_activ"
+              d="M 110.442200,70.039246 A 63.577662,63.577662 0,0 1,79.271896,72.385979"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_contribut"
+              d="M 138.465073,43.915169 A 62.242149,62.242149 0,0 1,182.495956,22.366938"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_aid"
+              d="M 134.247772,79.742592 A 81.947520,81.947520 0,0 1,116.019539,148.980743"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_gift id_help"
+              d="M 133.440170,79.987991 A 45.895753,45.895753 0,0 1,130.593201,98.637138"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_budget"
+              d="M -139.861450,60.847988 A 46.419905,46.419905 0,0 1,-165.182846,66.444939"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_level"
+              d="M -135.389175,16.342838 A 111.359147,111.359147 0,0 1,-132.974167,-81.917427"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_hour"
+              d="M -137.961060,18.161995 A 50.722238,50.722238 0,0 1,-140.976105,-9.817052"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_pay"
+              d="M -147.698441,33.002781 A 58.875113,58.875113 0,0 1,-166.696762,16.300713"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_develop"
+              d="M -111.450775,13.454059 A 50.583799,50.583799 0,0 1,-92.900703,-2.842504"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_area"
+              d="M -118.775253,12.062678 A 118.485255,118.485255 0,0 1,-53.052502,-74.230759"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_three"
+              d="M -122.847244,12.129074 A 64.506179,64.506179 0,0 1,-98.766434,-30.039154"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_one"
+              d="M -136.403458,17.009388 A 72.914337,72.914337 0,0 1,-137.221100,-38.803829"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_growth"
+              d="M -126.510185,12.696898 A 46.348366,46.348366 0,0 1,-120.806374,-5.709496"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_in-school"
+              d="M -92.132660,42.640224 A 43.735588,43.735588 0,0 1,-74.510109,56.645653"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_school"
+              d="M -101.123711,61.113861 A 90.993553,90.993553 0,0 1,-87.260231,128.416458"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_program id_student"
+              d="M -112.688400,67.587212 A 47.456282,47.456282 0,0 1,-116.352646,84.550674"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_offer"
+              d="M 137.963425,107.329407 A 33.576366,33.576366 0,0 1,151.080780,108.451012"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_promot"
+              d="M 117.776459,95.521042 A 79.194651,79.194651 0,0 1,147.439087,35.771210"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_thank"
+              d="M 137.009628,125.161873 A 34.124313,34.124313 0,0 1,145.931595,143.542633"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_reach"
+              d="M 109.477913,98.285889 A 104.411998,104.411998 0,0 1,113.949699,-0.513633"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_activ"
+              d="M 100.176529,111.879669 A 72.821354,72.821354 0,0 1,64.968178,87.332336"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_aid"
+              d="M 121.561653,135.090027 A 36.204712,36.204712 0,0 1,115.854950,148.821365"
+              stroke="#80a43c" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_make"
+              d="M 99.939209,113.770622 A 135.667707,135.667707 0,0 1,0.491001,43.394283"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_help id_support"
+              d="M 107.229942,130.728607 A 41.068044,41.068044 0,0 1,92.750053,137.682617"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_offer"
+              d="M 16.229034,75.303238 A 142.088821,142.088821 0,0 1,152.940948,105.723076"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_friend"
+              d="M -2.765947,59.408375 A 89.897400,89.897400 0,0 1,47.606335,7.876534"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_youth"
+              d="M 12.173654,68.524506 A 145.573521,145.573521 0,0 1,159.040329,58.755196"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_price"
+              d="M -21.603731,62.314610 A 102.414172,102.414172 0,0 1,-11.833699,-33.633461"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_growth"
+              d="M -34.341465,79.462479 A 121.426043,121.426043 0,0 1,-111.598526,-3.751909"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_in-school"
+              d="M -35.003952,86.333496 A 56.853318,56.853318 0,0 1,-69.291801,64.433960"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_teacher"
+              d="M 3.811882,109.093933 A 74.810947,74.810947 0,0 1,-1.318606,165.480057"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_school"
+              d="M -20.176033,109.308037 A 86.214431,86.214431 0,0 1,-74.238770,144.310547"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_parent"
+              d="M 3.022231,61.378521 A 187.515671,187.515671 0,0 1,166.341904,-33.909134"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_skill"
+              d="M -24.812279,64.471298 A 96.165272,96.165272 0,0 1,-30.852304,-19.645075"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_program"
+              d="M -34.802067,88.825310 A 100.582780,100.582780 0,0 1,-102.426117,62.247086"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_support"
+              d="M 18.152191,87.475784 A 83.260685,83.260685 0,0 1,68.844437,123.749733"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_provid id_help"
+              d="M 17.097366,77.746040 A 109.653176,109.653176 0,0 1,105.650085,101.295372"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_indiana id_10%"
+              d="M 24.938059,209.133118 A 58.023037,58.023037 0,0 1,-33.975479,205.562607"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_indiana id_unit"
+              d="M 26.348492,199.069504 A 64.867844,64.867844 0,0 1,13.566970,142.089798"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_health id_gift"
+              d="M -3.146819,134.013733 A 131.783162,131.783162 0,0 1,108.196892,60.408245"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_health id_program"
+              d="M -16.777153,141.649170 A 127.334183,127.334183 0,0 1,-111.913498,67.357376"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_health id_support"
+              d="M 0.787509,137.204758 A 69.581728,69.581728 0,0 1,61.569839,130.990097"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_friend"
+              d="M 31.180040,151.060257 A 138.025393,138.025393 0,0 1,51.891651,14.528609"
+              stroke="#df8502" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_particip"
+              d="M 21.184034,171.571686 A 74.286026,74.286026 0,0 1,-40.089878,148.980148"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_famili"
+              d="M 40.537682,149.406158 A 65.500848,65.500848 0,0 1,73.929337,106.235367"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_unit"
+              d="M 25.048975,155.751404 A 36.785932,36.785932 0,0 1,19.275311,143.034912"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_support"
+              d="M 47.622833,151.553818 A 39.427301,39.427301 0,0 1,60.196781,142.215057"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_help"
+              d="M 47.108791,151.284027 A 80.201813,80.201813 0,0 1,99.909775,116.375725"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_provid"
+              d="M 23.130461,158.485535 A 78.955018,78.955018 0,0 1,-7.097166,112.025078"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_indiana"
+              d="M 41.928181,185.457214 A 31.759146,31.759146 0,0 1,37.054375,198.818573"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_associ id_health"
+              d="M 20.757830,166.466736 A 43.488974,43.488974 0,0 1,-2.024478,151.239990"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_social id_educ"
+              d="M -33.475403,156.636780 A 59.503597,59.503597 0,0 1,-65.146133,121.656006"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_social id_health"
+              d="M -25.002747,153.115967 A 21.646446,21.646446 0,0 1,-16.559046,145.327591"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_social id_associ"
+              d="M -21.823343,156.143509 A 55.836504,55.836504 0,0 1,23.986244,157.132401"
+              stroke="#e6ab02" stroke-width="2.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-27.540411"
+                class="id_social" cy="158.96411" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="16.7325" cx="38.91474"
+                class="id_associ" cy="167.5211" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.9099998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-7.11055"
+                class="id_health" cy="142.92168" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="31.842678"
+                class="id_indiana" cy="204.97017" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="24.495" cx="-8.394227"
+                class="id_provid" cy="85.431694" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="4.2599998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="18.285" cx="119.75549"
+                class="id_help" cy="115.297264" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.1799998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="15.18" cx="76.269554"
+                class="id_support" cy="138.48465" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.6399999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="26.0475" cx="-120.35085"
+                class="id_program" cy="40.331303" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="4.5299997"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="18.285" cx="128.06691"
+                class="id_gift" cy="60.85311" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.1799998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="101.800156"
+                class="id_central" cy="180.32126" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="18.794058"
+                class="id_unit" cy="128.23022" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-37.75064"
+                class="id_10%" cy="202.78398" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="82.87817"
+                class="id_famili" cy="102.364845" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="18.152124"
+                class="id_life" cy="-30.449982" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="19.8375" cx="-68.280304"
+                class="id_educ" cy="100.3225" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.4499998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="97.9836"
+                class="id_child" cy="-127.26869" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-26.761786"
+                class="id_skill" cy="-28.495506" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="26.0475" cx="-10.135608"
+                class="id_make" cy="17.151705" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="4.5299997"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="10.5225" cx="107.980965"
+                class="id_aid" cy="157.11694" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-65.62618"
+                class="id_aids/std" cy="134.35129" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="-124.13695"
+                class="id_student" cy="97.15285" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="15.18" cx="182.82573"
+                class="id_parent" cy="-33.178566" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.6399999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="16.7325" cx="-92.35889"
+                class="id_school" cy="145.87466" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.9099998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="-7.3488097"
+                class="id_teacher" cy="175.19875" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-71.92018"
+                class="id_in-school" cy="60.552692" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="-114.03473"
+                class="id_growth" cy="-14.926941" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-9.130654"
+                class="id_price" cy="-37.463108" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="164.67863"
+                class="id_youth" cy="61.730118" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="203.52989"
+                class="id_1943" cy="0.610702" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="169.28076"
+                class="id_summer" cy="-3.2285912" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="102.92115"
+                class="id_1996" cy="-70.65125" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="125.884865"
+                class="id_dear" cy="-33.19366" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="21.39" cx="137.23792"
+                class="id_subject" cy="-70.12586" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.72"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="8.97" cx="192.24213"
+                class="id_contribut" cy="22.640226" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="2.76" cx="216.54367"
+                class="id_list" cy="-47.28875" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="58.500298"
+                class="id_elect" cy="-140.63292" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-63.19363"
+                class="id_recent" cy="172.67139" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-46.346992"
+                class="id_particip" cy="141.50278" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="-133.83472"
+                class="id_one" cy="-46.120686" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-94.97792"
+                class="id_three" cy="-32.799557" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="-42.50085"
+                class="id_area" cy="-78.644264" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="-82.20027"
+                class="id_develop" cy="-6.88195" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="19.8375" cx="-176.05537"
+                class="id_pay" cy="-3.1249838" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.4499998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="-138.95561"
+                class="id_hour" cy="-17.622274" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="35.59487"
+                class="id_pressur" cy="-64.14801" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-111.76676"
+                class="id_entir" cy="178.48082" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="5.865" cx="-45.477505"
+                class="id_year" cy="180.26941" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="45.28016"
+                class="id_consid" cy="-41.92855" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="57.072826"
+                class="id_hope" cy="-56.427933" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="22.9425" cx="71.38733"
+                class="id_person" cy="-94.52997" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.99"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="12.075" cx="17.438305"
+                class="id_respons" cy="-87.9092" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.1"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="27.6" cx="51.775124"
+                class="id_activ" cy="60.389004" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="4.7999997"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="21.39" cx="88.259766"
+                class="id_individu" cy="-34.769886" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.72"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="174.61667"
+                class="id_thus" cy="51.820805" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="-52.3508"
+                class="id_accomplish" cy="-42.53992" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="10.5225" cx="120.34547"
+                class="id_reach" cy="-9.995753" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="146.2427"
+                class="id_thank" cy="146.52646" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="224.46497"
+                class="id_mani" cy="42.981026" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="191.22772"
+                class="id_peopl" cy="80.19033" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="249.26295"
+                class="id_too" cy="47.190212" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="219.33183"
+                class="id_young" cy="79.90653" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="197.7875"
+                class="id_possibl" cy="115.637794" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="12.075" cx="158.32831"
+                class="id_promot" cy="28.443823" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.1"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-75.64328"
+                class="id_volatil" cy="-27.189884" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-50.673714"
+                class="id_time" cy="-12.350452" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="98.52814"
+                class="id_home" cy="80.56551" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="156.63083"
+                class="id_workplac" cy="77.82932" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="15.18" cx="28.146704"
+                class="id_issu" cy="-130.24614" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.6399999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="34.931732"
+                class="id_mount" cy="-101.51864" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-52.082268"
+                class="id_resolut" cy="-134.3366" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="109.26698"
+                class="id_peer" cy="-97.91682" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-86.3125"
+                class="id_emerg" cy="-102.8498" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="47.84731"
+                class="id_major" cy="-20.17075" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="18.285" cx="-17.185112"
+                class="id_take" cy="-112.07654" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.1799998"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="34.303844"
+                class="id_behavior" cy="-4.5513315" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="147.316"
+                class="id_background" cy="-140.2122" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="126.401344"
+                class="id_push" cy="-114.99932" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="38.476"
+                class="id_critic" cy="-208.24443" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="46.123226"
+                class="id_mission" cy="-232.44432" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-55.10808"
+                class="id_veri" cy="-212.24109" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-119.358925"
+                class="id_even" cy="-167.29959" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="146.79265"
+                class="id_nation" cy="-26.507334" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="13.99861"
+                class="id_emphasi" cy="-164.73866" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="17.207129"
+                class="id_controll" cy="-243.61691" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-111.24039"
+                class="id_alreadi" cy="-124.88484" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="19.94611"
+                class="id_pregnanc" cy="-286.30103" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="21.090385"
+                class="id_teen" cy="-304.03345" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="-81.46145"
+                class="id_action" cy="-68.266" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="12.075" cx="-126.21931"
+                class="id_level" cy="-93.17076" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.1"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="136.49886"
+                class="id_stake" cy="8.476357" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="37.14782"
+                class="id_short" cy="14.877411" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="18.285" cx="101.68662"
+                class="id_have" cy="19.862167" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="3.1799998"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="2.76" cx="133.13153"
+                class="id_000" cy="23.36493" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="7.4175" cx="46.87654"
+                class="id_start" cy="106.88591" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="28.3615"
+                class="id_own" cy="100.313965" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-16.898993"
+                class="id_age-appropri" cy="207.70216" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-5.4365907"
+                class="id_abstin" cy="209.29074" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="48.999023"
+                class="id_base" cy="128.93596" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="-75.4897"
+                class="id_differ" cy="-126.24231" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-74.920586"
+                class="id_real" cy="-194.15141" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-147.97949"
+                class="id_human" cy="-33.79901" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="2.76" cx="125.35569"
+                class="id_std" cy="185.67368" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-48.35701"
+                class="id_compon" cy="55.743263" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-94.218864"
+                class="id_conflict" cy="-136.28088" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-64.92566"
+                class="id_decision-mak" cy="-162.85837" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-33.08256"
+                class="id_cost" cy="-149.1906" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-55.27937"
+                class="id_actual" cy="-188.97838" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="10.5225" cx="-58.01232"
+                class="id_result" cy="-104.77064" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.8299999"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="13.627501" cx="-61.33983"
+                class="id_come" cy="25.350925" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-153.53758"
+                class="id_60%" cy="71.06939" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-26.704609"
+                class="id_30%" cy="127.338066" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-169.8388"
+                class="id_budget" cy="65.9021" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="9.084417"
+                class="id_way" cy="157.18182" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-44.469887"
+                class="id_remai" cy="162.28056" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="63.777557"
+                class="id_generos" cy="112.3351" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="144.0755"
+                class="id_busi" cy="92.17004" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="64.95077"
+                class="id_fundrais" cy="99.11894" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="12.489784"
+                class="id_vital" cy="-201.34386" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="7.4175" cx="-9.478917"
+                class="id_import" cy="-151.02353" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.29"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="10.434379"
+                class="id_success" cy="-60.57634" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="12.075" cx="-20.359877"
+                class="id_follow" cy="-59.969337" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="2.1"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-112.0082"
+                class="id_$48" cy="-43.85202" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-212.07545"
+                class="id_$60" cy="-18.43502" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-215.76642"
+                class="id_$156" cy="3.2549314" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-211.59428"
+                class="id_$500" cy="13.857053" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-84.06115"
+                class="id_approxim" cy="67.25244" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-150.10158"
+                class="id_50" cy="121.59836" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="2.76" cx="-156.95384"
+                class="id_500" cy="111.45663" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-139.7278"
+                class="id_grade" cy="-144.75566" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="4.3125" cx="-264.49872"
+                class="id_sincer" cy="-125.255135" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="5.865" cx="-277.8352"
+                class="id_p." cy="-137.72679" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="4.3125" cx="-301.4874"
+                class="id_haskel" cy="-143.2195" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-238.62947"
+                class="id_director" cy="-109.93006" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="5.865" cx="-297.49344"
+                class="id_nanci" cy="-123.85176" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.02"/>
+        <circle fill-opacity="1.0" fill="#e6ab02" r="8.97" cx="-151.92549"
+                class="id_execut" cy="-70.63627" stroke="#735501"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="4.3125" cx="255.1173"
+                class="id_$10" cy="16.195797" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.75"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="2.76" cx="277.77042"
+                class="id_just" cy="14.36361" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#1b9e77" r="2.76" cx="-58.942745"
+                class="id_1996-97" cy="208.47519" stroke="#0d4f3b"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#d95f02" r="13.627501" cx="61.74888"
+                class="id_friend" cy="3.4721544" stroke="#6c2f01"
+                stroke-opacity="1.0" stroke-width="2.37"/>
+        <circle fill-opacity="1.0" fill="#d95f02" r="2.76" cx="-121.64189"
+                class="id_other" cy="169.91714" stroke="#6c2f01"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#d95f02" r="8.97" cx="159.94997"
+                class="id_offer" cy="112.5007" stroke="#6c2f01"
+                stroke-opacity="1.0" stroke-width="1.56"/>
+        <circle fill-opacity="1.0" fill="#d95f02" r="2.76" cx="-215.85191"
+                class="id_$240" cy="-7.5918403" stroke="#6c2f01"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+        <circle fill-opacity="1.0" fill="#d95f02" r="2.76" cx="-316.3861"
+                class="id_k" cy="-125.55318" stroke="#6c2f01"
+                stroke-opacity="1.0" stroke-width="0.48"/>
+    </g>
+</svg>

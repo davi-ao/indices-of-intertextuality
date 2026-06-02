@@ -1,6 +1,10 @@
 library(tidyverse)
 library(igraph)
 library(openxlsx)
+library(jtools)
+library(ggbeeswarm)
+
+set_theme(theme_apa())
 
 # ANALYSIS NUMBER OF SEGMENTS PER TEXT -----------------------------------------
 descriptives_icic = list.files('data/cartas_icic_OANC/', 
@@ -72,9 +76,9 @@ calculate_intextextuality_indices = function(G1, G2) {
          edges_index = mean(E(G_union)$network == 'both'))
 }
 
-# INTRA-SPECIES ANALYSIS -------------------------------------------------------
+# INTRA-CATEGORY ANALYSIS -------------------------------------------------------
 
-# Read the networks from texts of the same species from the paired samples, 
+# Read the networks from texts of the same category from the paired samples, 
 # stored in XLSX, convert to igraph objects and store them into a list
 networks_icic = paired_samples$icic %>% 
   lapply(function(text){
@@ -86,7 +90,7 @@ networks_icic = paired_samples$icic %>%
       set_graph_attr('text', text)
   })
 
-# Read the networks from texts of the same species from the paired samples, 
+# Read the networks from texts of the same category from the paired samples, 
 # stored in XLSX, convert to igraph objects and store them into a list
 networks_extr = paired_samples$extr %>%
   lapply(function(text){
@@ -112,7 +116,7 @@ indices_icic = seq_along(networks_icic) %>%
       })
   }) %>%
   bind_rows() %>%
-  mutate(edges_index_log = log10(edges_index))
+  mutate(edges_index_log = log10(edges_index + 1))
 
 # Calculate the indices for each pair of networks in the EXTR list
 indices_extr = seq_along(networks_extr) %>% 
@@ -128,48 +132,69 @@ indices_extr = seq_along(networks_extr) %>%
       })
   }) %>%
   bind_rows() %>%
-  mutate(edges_index_log = log10(edges_index))
+  mutate(edges_index_log = log10(edges_index + 1))
 
-# Intra-species vertices index distribution
-indices_icic %>%
+# Intra-category indices
+indices_intra = indices_icic %>%
   mutate(corpus = 'ICIC') %>%
   bind_rows(indices_extr %>%
-              mutate(corpus = 'EXTR')) %>%
+              mutate(corpus = 'EXTR'))
+
+## Figure 2.1 ------------------------------------------------------------------
+
+# Intra-category vertices index distribution
+Figure2.1 = indices_intra %>%
   group_by(corpus) %>%
   mutate(M = mean(vertices_index),
             SE = sd(vertices_index)/sqrt(n()),
             ymin = M - (1.96 * SE),
             ymax = M + (1.96 * SE)) %>%
-  ggplot(aes(corpus, M, ymin = ymin, ymax = ymax)) +
-  geom_point() + 
-  geom_errorbar()
+  ggplot(aes(corpus, vertices_index, ymin = ymin, ymax = ymax, fill = corpus)) +
+  geom_boxplot() +
+  geom_quasirandom(alpha = .1, stroke = NA) +
+  geom_point(aes(y = M), size = 2, color = 'white') +
+  geom_errorbar(width = .1, color = 'white') +
+  xlab('Categoria') +
+  ylab('Índice de Intertextualidade Lexical\n de Vértices') +
+  scale_fill_discrete(palette = 'Dark2') +
+  guides(fill = 'none')
 
-# t(1274) = 27.77, p < .001, 95% CI = [0.023, 0.027]
-t.test(indices_icic$vertices_index, indices_extr$vertices_index)
+ggsave('results/Figura2.1.png', 
+       Figure2.1, 
+       'png', 
+       width = 85, 
+       height = 96, 
+       units = 'mm')
 
-# Intra-species edges index distribution
-indices_icic %>%
-  mutate(corpus = 'ICIC') %>%
-  bind_rows(indices_extr %>%
-              mutate(corpus = 'EXTR')) %>%
-  filter(edges_index_log != -Inf) %>%
+## Figure 2.2 ------------------------------------------------------------------
+
+# Intra-category edges index distribution
+Figure2.2 = indices_intra %>%
   group_by(corpus) %>%
   mutate(M = mean(edges_index_log),
          SE = sd(edges_index_log)/sqrt(n()),
          ymin = M - (1.96 * SE),
          ymax = M + (1.96 * SE)) %>%
-  ggplot(aes(corpus, M, ymin = ymin, ymax = ymax)) +
-  geom_point(size = 2) + 
-  geom_errorbar(width = .1) +
-  geom_jitter(alpha = .1, width = .1)
+  ggplot(aes(corpus, 
+             edges_index_log, 
+             ymin = ymin, 
+             ymax = ymax, 
+             fill = corpus)) +
+  geom_boxplot() +
+  geom_quasirandom(alpha = .1, stroke = NA) +
+  geom_point(aes(y = M), size = 2, color = 'white') +
+  geom_errorbar(width = .1, color = 'white') +
+  xlab('Categoria') +
+  ylab('Índice de Intertextualidade Lexical\n de Arestas (log)') +
+  scale_fill_discrete(palette = 'Dark2') +
+  guides(fill = 'none')
 
-# TODO t-test with log transformed values with inf values removed
-indices_icic %>%
-  mutate(corpus = 'ICIC') %>%
-  bind_rows(indices_extr %>%
-              mutate(corpus = 'EXTR')) %>%
-  filter(edges_index_log != -Inf) %>%
-  t.test(edges_index_log ~ corpus, .)
+ggsave('results/Figura2.2.png', 
+       Figure2.2, 
+       'png', 
+       width = 85, 
+       height = 96, 
+       units = 'mm')
 
 ## Example 1 -------------------------------------------------------------------
 
@@ -274,7 +299,7 @@ g_union_2 %>%
   mutate(Label = Id) %>%
   write_csv('results/union_301CUL073_501C-L078_vertices.csv')
 
-# INTER-SPECIES ANALYSIS -------------------------------------------------------
+# INTER-CATEGORY ANALYSIS ------------------------------------------------------
 
 # Calculate the indices for each pair of networks in different lists
 indices_inter = seq_along(networks_icic) %>% 
@@ -287,30 +312,102 @@ indices_inter = seq_along(networks_icic) %>%
                  network_2 = networks_extr[[j]]$text)
       })
   }) %>%
-  bind_rows()
+  bind_rows() %>%
+  mutate(edges_index_log = log10(edges_index + 1))
 
-# Inter- and intra-species vertices index distributions
-indices_icic %>%
+# All indices
+indices = indices_icic %>%
   mutate(corpus = 'ICIC') %>%
   bind_rows(indices_extr %>%
               mutate(corpus = 'EXTR')) %>%
   bind_rows(indices_inter %>%
-              mutate(corpus = 'INTER')) %>%
-  ggplot(aes(vertices_index, group = corpus, fill = corpus)) +
-  geom_density(alpha = .5)
+              mutate(corpus = 'INTER'))
 
-# t(2094.6) = -13.47, p < .001, 95% CI = [-0.013, -0.010]
-t.test(indices_inter$vertices_index, indices_extr$vertices_index)
+## Figure 3.1 ------------------------------------------------------------------
 
-# Intra-species edges index distribution
-indices_icic %>%
-  mutate(corpus = 'ICIC') %>%
-  bind_rows(indices_extr %>%
-              mutate(corpus = 'EXTR')) %>%
-  bind_rows(indices_inter %>%
-              mutate(corpus = 'INTER')) %>%
-  ggplot(aes(edges_index, group = corpus, fill = corpus)) +
-  geom_density(alpha = .5) +
-  scale_x_log10()
+# Inter- and intra-category vertices index distributions
+Figure3.1 = indices %>%
+  group_by(corpus) %>%
+  mutate(M = mean(vertices_index),
+         SE = sd(vertices_index)/sqrt(n()),
+         ymin = M - (1.96 * SE),
+         ymax = M + (1.96 * SE)) %>%
+  ggplot(aes(corpus, vertices_index, ymin = ymin, ymax = ymax, fill = corpus)) +
+  geom_boxplot() +
+  geom_quasirandom(alpha = .1, stroke = NA) +
+  geom_point(aes(y = M), size = 2, color = 'white') +
+  geom_errorbar(width = .1, color = 'white') +
+  xlab('Categoria') +
+  ylab('Índice de Intertextualidade Lexical\n de Vértices') +
+  scale_fill_discrete(palette = 'Dark2') +
+  guides(fill = 'none')
 
-# TODO t-test with log transformed values with inf values removed
+ggsave('results/Figura3.1.png', 
+       Figure3.1, 
+       'png', 
+       width = 170, 
+       height = 96, 
+       units = 'mm')
+
+## Figure 3.2 -------------------------------------------------------------------
+
+# Inter- and intra-category edges index distributions
+Figure3.2 = indices %>%
+  group_by(corpus) %>%
+  mutate(M = mean(edges_index_log),
+         SE = sd(edges_index_log)/sqrt(n()),
+         ymin = M - (1.96 * SE),
+         ymax = M + (1.96 * SE)) %>%
+  ggplot(aes(corpus, edges_index_log, ymin = ymin, ymax = ymax, fill = corpus)) +
+  geom_boxplot() +
+  geom_quasirandom(alpha = .1, stroke = NA) +
+  geom_point(aes(y = M), size = 2, color = 'white') +
+  geom_errorbar(width = .1, color = 'white') +
+  xlab('Categoria') +
+  ylab('Índice de Intertextualidade Lexical\n de Arestas (log)') +
+  scale_fill_discrete(palette = 'Dark2') +
+  guides(fill = 'none')
+
+ggsave('results/Figura3.2.png', 
+       Figure3.2, 
+       'png', 
+       width = 170, 
+       height = 96, 
+       units = 'mm')
+
+## Table 1 ---------------------------------------------------------------------
+
+indices %>%
+  select(corpus, vertices_index, edges_index_log) %>%
+  pivot_longer(c(vertices_index, edges_index_log)) %>%
+  group_by(corpus, name) %>%
+  summarise(M = mean(value),
+            SE = sd(value)/sqrt(n()),
+            ymin = M - (1.96 * SE),
+            ymax = M + (1.96 * SE))
+
+# LINEAR MODELS ----------------------------------------------------------------
+
+# Differences between intra-category vertices indices of both categories
+indices_intra %>%
+  mutate(corpus = corpus %>% as_factor()) %>%
+  lm(vertices_index ~ corpus, data = .) %>%
+  summary()
+
+# Differences between intra-category edges indices of both categories
+indices_intra %>%
+  mutate(corpus = corpus %>% as_factor()) %>%
+  lm(edges_index_log ~ corpus, data = .) %>%
+  summary()
+
+# Differences between inter- and intra-category vertices indices
+indices %>%
+  mutate(corpus = corpus %>% as_factor() %>% relevel('INTER')) %>%
+  lm(vertices_index ~ corpus, data = .) %>%
+  summary()
+
+# Differences between inter- and intra-category edges indices
+indices %>%
+  mutate(corpus = corpus %>% as_factor() %>% relevel('INTER')) %>%
+  lm(edges_index_log ~ corpus, data = .) %>%
+  summary()
