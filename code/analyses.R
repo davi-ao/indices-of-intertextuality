@@ -140,67 +140,11 @@ indices_intra = indices_icic %>%
   bind_rows(indices_extr %>%
               mutate(corpus = 'EXTR'))
 
-## Figure 2.1 ------------------------------------------------------------------
-
-# Intra-category vertices index distribution
-Figure2.1 = indices_intra %>%
-  group_by(corpus) %>%
-  mutate(M = mean(vertices_index),
-            SE = sd(vertices_index)/sqrt(n()),
-            ymin = M - (1.96 * SE),
-            ymax = M + (1.96 * SE)) %>%
-  ggplot(aes(corpus, vertices_index, ymin = ymin, ymax = ymax, fill = corpus)) +
-  geom_boxplot() +
-  geom_quasirandom(alpha = .1, stroke = NA) +
-  geom_point(aes(y = M), size = 2, color = 'white') +
-  geom_errorbar(width = .1, color = 'white') +
-  xlab('Categoria') +
-  ylab('Índice de Intertextualidade Lexical\n de Vértices') +
-  scale_fill_discrete(palette = 'Dark2') +
-  guides(fill = 'none')
-
-ggsave('results/Figura2.1.png', 
-       Figure2.1, 
-       'png', 
-       width = 85, 
-       height = 96, 
-       units = 'mm')
-
-## Figure 2.2 ------------------------------------------------------------------
-
-# Intra-category edges index distribution
-Figure2.2 = indices_intra %>%
-  group_by(corpus) %>%
-  mutate(M = mean(edges_index_log),
-         SE = sd(edges_index_log)/sqrt(n()),
-         ymin = M - (1.96 * SE),
-         ymax = M + (1.96 * SE)) %>%
-  ggplot(aes(corpus, 
-             edges_index_log, 
-             ymin = ymin, 
-             ymax = ymax, 
-             fill = corpus)) +
-  geom_boxplot() +
-  geom_quasirandom(alpha = .1, stroke = NA) +
-  geom_point(aes(y = M), size = 2, color = 'white') +
-  geom_errorbar(width = .1, color = 'white') +
-  xlab('Categoria') +
-  ylab('Índice de Intertextualidade Lexical\n de Arestas (log)') +
-  scale_fill_discrete(palette = 'Dark2') +
-  guides(fill = 'none')
-
-ggsave('results/Figura2.2.png', 
-       Figure2.2, 
-       'png', 
-       width = 85, 
-       height = 96, 
-       units = 'mm')
-
 ## Example 1 -------------------------------------------------------------------
 
 # Example of analysis with the pair of networks with higher intertextuality 
 # indices in the ICIC corpus
-g_120CUL044 = read.xlsx('data/cartas_icic_OANC/120CUL044_network.xlsx',
+g_407CQL123 = read.xlsx('data/cartas_icic_OANC/407CQL123_network.xlsx',
                         sheet = 2) %>%
   select(Source, Target) %>%
   as.matrix() %>%
@@ -209,7 +153,7 @@ g_120CUL044 = read.xlsx('data/cartas_icic_OANC/120CUL044_network.xlsx',
   set_vertex_attr(name = 'network', value = '1') %>%
   set_edge_attr(name = 'network', value = '1')
 
-g_120CUL045 = read.xlsx('data/cartas_icic_OANC/120CUL045_network.xlsx',
+g_113CWL018 = read.xlsx('data/cartas_icic_OANC/113CWL018_network.xlsx',
                         sheet = 2) %>%
   select(Source, Target) %>%
   as.matrix() %>%
@@ -218,7 +162,7 @@ g_120CUL045 = read.xlsx('data/cartas_icic_OANC/120CUL045_network.xlsx',
   set_vertex_attr(name = 'network', value = '2') %>%
   set_edge_attr(name = 'network', value = '2')
 
-g_union_1 = g_120CUL044 %u% g_120CUL045
+g_union_1 = g_407CQL123 %u% g_113CWL018
 
 E(g_union_1)$network = ifelse(!is.na(E(g_union_1)$network_1) & 
                               !is.na(E(g_union_1)$network_2), 'both',
@@ -239,19 +183,20 @@ g_union_1 %>%
   as_data_frame('edges') %>%
   rename(Source = from, Target = to) %>%
   mutate(Type = 'Undirected') %>%
-  write_csv('results/union_120CUL044_120CUL045_edges.csv')
+  write_csv('results/union_407CQL123_113CWL018_edges.csv')
 
 # Write list of vertices
 g_union_1 %>%
   as_data_frame('vertices') %>%
   rename(Id = name) %>%
   mutate(Label = Id) %>%
-  write_csv('results/union_120CUL044_120CUL045_vertices.csv')
+  write_csv('results/union_407CQL123_113CWL018_vertices.csv')
 
 ## Example 2 -------------------------------------------------------------------
-# Example of analysis with the pair of networks with lower intertextuality 
-# indices
-g_301CUL073 = read.xlsx('data/cartas_icic_OANC/301CUL073_network.xlsx',
+
+# Example of analysis with the pair of networks with average intertextuality 
+# indices in the ICIC corpus
+g_603CWL193 = read.xlsx('data/cartas_icic_OANC/603CWL193_network.xlsx',
                         sheet = 2) %>%
   select(Source, Target) %>%
   as.matrix() %>%
@@ -260,7 +205,7 @@ g_301CUL073 = read.xlsx('data/cartas_icic_OANC/301CUL073_network.xlsx',
   set_vertex_attr(name = 'network', value = '1') %>%
   set_edge_attr(name = 'network', value = '1')
 
-g_501C_L078 = read.xlsx('data/cartas_icic_OANC/501C-L078_network.xlsx',
+g_105CWL039 = read.xlsx('data/cartas_icic_OANC/105CWL039_network.xlsx',
                         sheet = 2) %>%
   select(Source, Target) %>%
   as.matrix() %>%
@@ -269,15 +214,15 @@ g_501C_L078 = read.xlsx('data/cartas_icic_OANC/501C-L078_network.xlsx',
   set_vertex_attr(name = 'network', value = '2') %>%
   set_edge_attr(name = 'network', value = '2')
 
-g_union_2 = g_301CUL073 %u% g_501C_L078
+g_union_2 = g_603CWL193 %u% g_105CWL039
 
 E(g_union_2)$network = ifelse(!is.na(E(g_union_2)$network_1) & 
-                              !is.na(E(g_union_2)$network_2), 'both',
-                            ifelse(!is.na(E(g_union_2)$network_1), '1', '2'))
+                                !is.na(E(g_union_2)$network_2), 'both',
+                              ifelse(!is.na(E(g_union_2)$network_1), '1', '2'))
 
 V(g_union_2)$network = ifelse(!is.na(V(g_union_2)$network_1) & 
-                              !is.na(V(g_union_2)$network_2), 'both',
-                            ifelse(!is.na(V(g_union_2)$network_1), '1', '2'))
+                                !is.na(V(g_union_2)$network_2), 'both',
+                              ifelse(!is.na(V(g_union_2)$network_1), '1', '2'))
 
 g_union_2 = g_union_2 %>%
   delete_vertex_attr('network_1') %>%
@@ -290,14 +235,65 @@ g_union_2 %>%
   as_data_frame('edges') %>%
   rename(Source = from, Target = to) %>%
   mutate(Type = 'Undirected') %>%
-  write_csv('results/union_301CUL073_501C-L078_edges.csv')
+  write_csv('results/union_603CWL193_105CWL039_edges.csv')
 
 # Write list of vertices
 g_union_2 %>%
   as_data_frame('vertices') %>%
   rename(Id = name) %>%
   mutate(Label = Id) %>%
-  write_csv('results/union_301CUL073_501C-L078_vertices.csv')
+  write_csv('results/union_603CWL193_105CWL039_vertices.csv')
+
+## Example 3 -------------------------------------------------------------------
+# Example of analysis with the pair of networks with lower intertextuality 
+# indices
+g_301CUL075 = read.xlsx('data/cartas_icic_OANC/301CUL075_network.xlsx',
+                        sheet = 2) %>%
+  select(Source, Target) %>%
+  as.matrix() %>%
+  graph_from_edgelist() %>%
+  set_graph_attr('text', file) %>%
+  set_vertex_attr(name = 'network', value = '1') %>%
+  set_edge_attr(name = 'network', value = '1')
+
+g_301CUL076 = read.xlsx('data/cartas_icic_OANC/301CUL076_network.xlsx',
+                        sheet = 2) %>%
+  select(Source, Target) %>%
+  as.matrix() %>%
+  graph_from_edgelist() %>%
+  set_graph_attr('text', file) %>%
+  set_vertex_attr(name = 'network', value = '2') %>%
+  set_edge_attr(name = 'network', value = '2')
+
+g_union_3 = g_301CUL075 %u% g_301CUL076
+
+E(g_union_3)$network = ifelse(!is.na(E(g_union_3)$network_1) & 
+                              !is.na(E(g_union_3)$network_2), 'both',
+                            ifelse(!is.na(E(g_union_3)$network_1), '1', '2'))
+
+V(g_union_3)$network = ifelse(!is.na(V(g_union_3)$network_1) & 
+                              !is.na(V(g_union_3)$network_2), 'both',
+                            ifelse(!is.na(V(g_union_3)$network_1), '1', '2'))
+
+g_union_3 = g_union_3 %>%
+  delete_vertex_attr('network_1') %>%
+  delete_vertex_attr('network_2') %>%
+  delete_edge_attr('network_1') %>%
+  delete_edge_attr('network_2')
+
+# Write list of edges
+g_union_3 %>%
+  as_data_frame('edges') %>%
+  rename(Source = from, Target = to) %>%
+  mutate(Type = 'Undirected') %>%
+  write_csv('results/union_301CUL075_301CUL076_edges.csv')
+
+# Write list of vertices
+g_union_3 %>%
+  as_data_frame('vertices') %>%
+  rename(Id = name) %>%
+  mutate(Label = Id) %>%
+  write_csv('results/union_301CUL073_301CUL076_vertices.csv')
 
 # INTER-CATEGORY ANALYSIS ------------------------------------------------------
 
@@ -323,10 +319,11 @@ indices = indices_icic %>%
   bind_rows(indices_inter %>%
               mutate(corpus = 'INTER'))
 
-## Figure 3.1 ------------------------------------------------------------------
+## Figure 2.1 ------------------------------------------------------------------
 
 # Inter- and intra-category vertices index distributions
-Figure3.1 = indices %>%
+Figure2.1 = indices %>%
+  mutate(corpus = corpus %>% as_factor() %>% relevel('ICIC')) %>% 
   group_by(corpus) %>%
   mutate(M = mean(vertices_index),
          SE = sd(vertices_index)/sqrt(n()),
@@ -342,17 +339,18 @@ Figure3.1 = indices %>%
   scale_fill_discrete(palette = 'Dark2') +
   guides(fill = 'none')
 
-ggsave('results/Figura3.1.png', 
-       Figure3.1, 
+ggsave('results/Figura2.1.png', 
+       Figure2.1, 
        'png', 
        width = 170, 
        height = 96, 
        units = 'mm')
 
-## Figure 3.2 -------------------------------------------------------------------
+## Figure 2.2 -------------------------------------------------------------------
 
 # Inter- and intra-category edges index distributions
-Figure3.2 = indices %>%
+Figure2.2 = indices %>%
+  mutate(corpus = corpus %>% as_factor() %>% relevel('ICIC')) %>%
   group_by(corpus) %>%
   mutate(M = mean(edges_index_log),
          SE = sd(edges_index_log)/sqrt(n()),
@@ -368,8 +366,8 @@ Figure3.2 = indices %>%
   scale_fill_discrete(palette = 'Dark2') +
   guides(fill = 'none')
 
-ggsave('results/Figura3.2.png', 
-       Figure3.2, 
+ggsave('results/Figura2.2.png', 
+       Figure2.2, 
        'png', 
        width = 170, 
        height = 96, 
