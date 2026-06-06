@@ -20,7 +20,7 @@ A intertextualidade refere-se às formas pelas quais os textos se relacionam ent
 | ICIC                 | $0,0370$   | $0,0009$    | $42,87$   | $<0,001$  |
 | EXTR                 | $0,0116$   | $0,0009$    | $13,48$   | $<0,001$  |
 
-: $R^2=0,26$ (múltiplo); $R^2=0,26$ (ajustado)
+$R^2=0,26$ (múltiplo); $R^2=0,26$ (ajustado)
 
 ### Tabela S.2 - Modelo linear com valores de $\underline{\chi}$
 
@@ -30,4 +30,4 @@ A intertextualidade refere-se às formas pelas quais os textos se relacionam ent
 | ICIC                 | $0,00198$  | $0,00008$   | $24,55$   | $<0,001$  |
 | EXTR                 | $0,00095$  | $0,00008$   | $11,77$   | $<0,001$  |
 
-: $R^2=0,11$ (múltiplo); $R^2=0,11$ (ajustado)
+$R^2=0,11$ (múltiplo); $R^2=0,11$ (ajustado)
